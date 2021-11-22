@@ -1,0 +1,6 @@
+I can see Russia from my house!
+0 1 3 6 10 15
+0 j 891
+216 4
+124567
+
